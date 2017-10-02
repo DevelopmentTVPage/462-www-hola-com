@@ -1,0 +1,15 @@
+{
+    "title": "Hola",
+    "baseURL": "https:\/\/www.hola.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "3",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "hola.com"
+    }
+}
